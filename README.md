@@ -1,3 +1,3 @@
 # praktikumwebprogramming
 
-this is my repository for webdev task
+this is the repository for webprogramming assignment
